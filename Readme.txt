@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Hello world!
 
-Template Name: Laura
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to Brooklynn's all about me website!!
